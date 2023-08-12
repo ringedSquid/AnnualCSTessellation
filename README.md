@@ -6,13 +6,13 @@ A small python program that generates some nice tesselations.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ringedSquid/AnnualCSTessellation/blob/main/screenshots/t0.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ringedSquid/AnnualCSTessellation/blob/main/screenshots/t1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ringedSquid/AnnualCSTessellation/blob/main/screenshots/t2.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ringedSquid/AnnualCSTessellation/blob/main/screenshots/t4.png)
 
 
 
